@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * Puts print
+ * Main: Starting 
+ *
+ * Return:  0
  */
 int main(void)
 {
