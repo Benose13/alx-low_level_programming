@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * Main: Starting 
+ * main - Entry point
  *
- * Return:  0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char d;
 	int a;
 	long int b;
 	long long int c;
+	char d;
 	float f;
 
 	printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(d));
